@@ -1,0 +1,20 @@
+[
+    {
+        "idAuthor": "1",
+        "id": "1",
+        "izena": "arroza",
+        "mota": "lehenego platerra",
+        "zailtasuna": "erreza",
+        "denbora": 15,
+        "osagaiak": [
+            "arroza",
+            "tomatea",
+            "olioa"
+        ],
+        "prozedura": [
+            "jarri olioa arrozarekin",
+            "bota ura eta egozi",
+            "batu tomatea arrozarekin"
+        ]
+    }
+]
